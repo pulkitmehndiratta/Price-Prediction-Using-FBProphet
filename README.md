@@ -10,4 +10,4 @@ Fore details on Facebook Prophet visit: https://facebook.github.io/prophet/
 
 Fore queries please mail ar: pulkit.mehndiratta@gmail.com
 
-Credits to: Ryan Ahmed (coursera) for the wonderful explanantion to the problem and technique to forecast the trends.
+Credits to: Ryan Ahmed (coursera) for the wonderful explanation to the problem and technique to forecast the trends.
