@@ -9,3 +9,5 @@ The analysisi provide us insightss and future trend prdictions about the fruit p
 Fore details on Facebook Prophet visit: https://facebook.github.io/prophet/
 
 Fore queries please mail ar: pulkit.mehndiratta@gmail.com
+
+Credits to: Ryan Ahmed (coursera) for the wonderful explanantion to the problem and technique to forecast the trends.
